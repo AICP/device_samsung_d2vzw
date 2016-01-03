@@ -20,6 +20,11 @@
     "branch":      "mm6.0"
   },
   {
+    "repository":  "CyanogenMod/android_external_stlport",
+    "target_path": "external/stlport",
+    "branch":      "cm-13.0"
+  },
+  {
     "repository":  "CyanogenMod/android_hardware_samsung",
     "target_path": "hardware/samsung",
     "branch":      "cm-13.0"
